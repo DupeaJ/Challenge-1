@@ -10,7 +10,7 @@ I learned some new Tags as well, such as nav for navigation links and aside to h
 ## Installation
 
 Available with website link
-[WebPage](https://dupeaj.github.io/JacobDupeaChallenge-1/)
+[Horiseon](https://dupeaj.github.io/JacobDupeaChallenge-1/)
 
 ## Usage
 
