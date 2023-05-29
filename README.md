@@ -14,8 +14,8 @@ N/A
 ## Usage
 
 Website functions the same as Before 
-![Alt text](/images/Horiseon\Webpage\Top.jpg?raw=true "Horiseon Webpage Top")
-![Alt text](/images/Horiseon\Webpage\Bottom.jpg?raw=true "Horiseon Webpage Bottom")
+![ScreenShot](/images/Horiseon Webpage top.PNG.jpg?raw=true "Horiseon Webpage Top")
+![ScreenShot](/images/Horiseon Webpage bottom.PNG.jpg?raw=true "Horiseon Webpage bottom")
 
 ## Credits
 
